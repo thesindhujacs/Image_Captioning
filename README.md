@@ -1,12 +1,5 @@
 # Image_Captioning
 
-
-## 📌 Overview
-
-This project generates memes by adding captions to images.
-The caption is automatically wrapped so it fits inside the image without getting cut off.
-Line spacing and formatting are adjusted to make the caption more readable.
-
 ## 🚀 Features
 
 * Add custom captions to images.
@@ -22,9 +15,9 @@ Line spacing and formatting are adjusted to make the caption more readable.
 ## 📂 Project Files
 
 ```
-├── images/           # Input images
-├── captioned_images/           # Memes with captions
-└── meme_generator.py # Python code
+├── images/              # Input images
+├── captioned_images/    # Memes with captions
+└── meme_generator.py    # Python code
 ```
 
 ## ⚡ How It Works
