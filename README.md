@@ -23,7 +23,7 @@ Line spacing and formatting are adjusted to make the caption more readable.
 
 ```
 ├── images/           # Input images
-├── output/           # Memes with captions
+├── captioned_images/           # Memes with captions
 └── meme_generator.py # Python code
 ```
 
